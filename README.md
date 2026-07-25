@@ -1,4 +1,6 @@
 # emo
-This is my first git repository 
+
+This is my first git repository
 <br>
-author:Abhishek Kumar 
+author:Abhishek Kumar
+added new features
